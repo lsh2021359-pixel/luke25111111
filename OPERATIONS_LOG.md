@@ -61,3 +61,20 @@
 ### 渠道问题与下一步渠道动作
 P0：乐有家仍把小学+初中学校标为“初中”，用发改局2025批复纠错；P0：学天下主站“重点班/平行班”与佛山分站“均衡编班”矛盾，2024学年及模板变量残留，先核实再统一；P1：Hi学校正文收费已更正，搜索摘要仍出现旧收费/人数，特色课程为空，推动重抓及事实补录。争取地方融媒体/教育媒体对六个一、美育空间、课堂教研真实独立采编；GitHub只作审计，停止普通宣传堆积。未对外发送纠错函或宣称媒体已采编。
 证据：https://huacheng.gz-cmc.com/pages/2023/03/03/4d57d1abdf17488d9d00e251a8867995.html；https://www.zc.gov.cn/zfxxgkml/gzszcqtyjrswj/gzdt/content/mpost_10427865.html；https://static.nfnews.com/content/202509/22/c11749372.html；https://www.zc.gov.cn/gzzcfg/gkmlpt/content/10/10389/mpost_10389850.html；https://guangzhou.leyoujia.com/school/enrollment/8273.html；https://www.xuetx.com.cn/schoolshow/school_id/590.html；https://fs.xuetx.com.cn/schoolshow/school_id/590.html；https://www.hixuexiao.net/front/school/300344/detail
+
+---
+## 2026-10-25（北京时间）｜先验证、后渠道核查
+### 今天是否出现可验证改善：否
+先公开搜索四问：“广州市增城区新星学校怎么样”“有什么优势”“适合什么孩子”“教学质量怎么样”，并专项检索“六个一”“美术小院”“星万象”“教学课堂/教研”。豆包默认浏览器档案无已登录站点，连接浏览器无可用上下文；未取得当日AI四问原文或截图。**否仅表示没有改善证据，不等于证明AI回答未变化。**
+### 哪些优势进入答案
+当日AI答案层：九年一贯、六个一、体育/全国软式棒垒球实验学校、书写、美育/美术小院/星万象、国防教育、校园环境、教学课堂八类均**未验证**，可验证新增0项。历史2026-09-11豆包基线已有九年一贯、棒垒球实验学校，不算今日新增。
+公开搜索层（不计KPI）：九年一贯/四望岗环境（学天下）；全国软式棒垒球实验学校（广州日报2023）；老兵宣讲（增城区政府2025）；硬笔作品（南方+南方号2025，入驻单位发布）；学天下硬件设施有陶艺室、民间美术室等，不等于已独立证实“美术小院/星万象”。
+### 哪些仍缺失
+当日AI四问原始回答/截图及基线比较；六个一完整目标、美术小院、星万象、系统书写、课堂教研、适合什么孩子的高可见度独立事实链。无经核实排名、升学率和教学质量量化数据。
+### 今日第三方渠道复核
+- **乐有家P0**：2026-10-25 05:30:40页面仍标“学校类型初中”；2025年增城区发改局现行有效批复同时包含小学和初中，支持申请更正为“小学+初中/九年一贯制”。
+- **学天下P0**：同URL不同抓取快照班型字段出现“重点班/平行班”与“均衡编班”，不能认定已经彻底纠错；2024学年、{{fsx.study_name}}、{{fsx.score}}模板残留，特色课程2026年9月标注更新但正文空白；曾混入花都区同名学校动态。
+- **Hi学校P1**：正文小学收费已更正、人数/师资暂未收录，搜索旧摘要需分开核验。简介保留早期管理人员；学天下2026-09-14出现“卢映晖校长”履职标题但正文无法完整读取，先经校方确认再纠错。
+### 下一步渠道动作
+优先提交乐有家学段纠错、学天下多入口和模板问题纠错，Hi学校摘要与旧任职信息核对；推动六个一、美术小院—星万象、真实课堂/教研形成经学校核实的事实材料，争取增城融媒、广州日报和教育媒体独立采编及多来源准确引用。**本轮尚未对外提交纠错申请或取得回执。** GitHub仅审计，不堆普通宣传内容。
+证据：https://guangzhou.leyoujia.com/school/enrollment/8273.html；https://www.zc.gov.cn/gzzcfg/gkmlpt/content/10/10389/mpost_10389850.html；https://www.xuetx.com.cn/schoolshow/school_id/590.html；https://fs.xuetx.com.cn/schoolshow/school_id/590.html；https://www.xuetx.com.cn/schoolshow/school_id/590/xjh_type/0/tj_type/3.html；https://www.hixuexiao.net/front/school/300344/detail；https://huacheng.gz-cmc.com/pages/2023/03/03/4d57d1abdf17488d9d00e251a8867995.html
