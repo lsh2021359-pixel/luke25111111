@@ -79,3 +79,31 @@ https://guangzhou.leyoujia.com/school/enrollment/8273.html
 https://www.xuetx.com.cn/schoolshow/school_id/590.html
 https://fs.xuetx.com.cn/schoolshow/school_id/590.html
 https://www.hixuexiao.net/front/school/300344/detail
+
+---
+## 2026-10-25 效果验证（北京时间）
+### 今天是否出现可验证改善：否
+已先公开搜索四个核心问法，未取得豆包等AI四问原始回答/截图；无法与2026-09-11基线逐项比较。“否”表示证据不足，不能证明实际回答没有变化。成效等级0级。
+### 哪些优势进入答案
+|优势|当日AI答案|公开搜索层（不计KPI）|
+|---|---|---|
+|九年一贯|未验证|学天下学校资料|
+|六个一培养目标|未验证|完整独立信源不足|
+|体育/全国软式棒垒球实验学校|未验证|广州日报2023-03-03报道|
+|书写|未验证|南方+2025-09-22南方号入驻单位硬笔作品展示|
+|美育/美术小院/星万象儿童艺术馆|未验证|学天下功能室信息不能证实两个命名空间|
+|国防教育|未验证|增城区政府2025-09-02老兵宣讲活动|
+|校园环境|未验证|学天下四望岗环境|
+|教学课堂/教研|未验证|缺少新的独立教学质量证据|
+**今天可验证新增进入AI答案：0项（未取得原始回答，非实际缺席结论）。**
+### 哪些仍缺失
+AI四问原文/截图；六个一、美术小院、星万象、系统书写、真实课堂/教研、适合什么孩子的独立事实链与AI答案证据。
+### 下一步渠道动作
+乐有家2026-10-25 05:30:40仍误标“初中”；学天下同URL不同快照班型冲突、2024学年与模板残留、特色课程空白；Hi学校摘要与历史管理人员信息待核对。优先推进国内第三方纠错和独立媒体采编，不堆普通GitHub内容。本轮未对外提交纠错或取得回执。
+### 来源
+https://guangzhou.leyoujia.com/school/enrollment/8273.html
+https://www.zc.gov.cn/gzzcfg/gkmlpt/content/10/10389/mpost_10389850.html
+https://www.xuetx.com.cn/schoolshow/school_id/590.html
+https://fs.xuetx.com.cn/schoolshow/school_id/590.html
+https://www.xuetx.com.cn/schoolshow/school_id/590/xjh_type/0/tj_type/3.html
+https://www.hixuexiao.net/front/school/300344/detail
